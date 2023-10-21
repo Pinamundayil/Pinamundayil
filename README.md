@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhijith Pavithran</h1>
-<h3 align="center">A passionate in Machine Learning, Deep Learning, Shell Scripting.</h3>
+<h3 align="center">A passionate in Cloud Computing, Machine Learning, Deep Learning Technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinamundayil&label=Profile%20views&color=0e75b6&style=flat" alt="pinamundayil" /> </p>
 
-- 🔭 I’m currently working on thesis **Development of a voice assistant application**
+- 🔭 I’m currently working at  **SAP as Working Student**
 
-- 🌱 I’m currently learning **Shell Scripting, Git version control**
+- 🌱 I’m currently learning **Backup solution architectures on Hyperscalers such as AWS, Azure and GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pinamundayil](https://github.com/Pinamundayil)
 
-- 💬 Ask me about **Machine learning algorithams**
+- 💬 Ask me about **Cloud computing, AWS, GCP, Azure, Machine learning algorithams,Deep Learning**
 
 - 📫 How to reach me **pabhijith628@gmail.com**
 
