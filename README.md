@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pinamundayil](https://github.com/Pinamundayil)
 
-- 💬 Ask me about **Cloud computing, AWS, GCP, Azure, Machine learning algorithams,Deep Learning**
+- 💬 Ask me about **Cloud computing, AWS, GCP, Azure, Machine learning algorithams and Deep Learning**
 
 - 📫 How to reach me **pabhijith628@gmail.com**
 
